@@ -1,0 +1,10 @@
+{
+  "dailyEvent": {
+    "label": "+100% Dungeon XP",
+    "color": "#55FF55"
+  },
+  "boosters": [
+    { "label": "+50% XP Booster",   "color": "#FFAA00" },
+    { "label": "+25% Luck Booster", "color": "#FF55FF" }
+  ]
+}
