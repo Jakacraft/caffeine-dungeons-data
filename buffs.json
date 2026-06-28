@@ -1,10 +1,14 @@
 {
-  "dailyEvent": {
-    "label": "+100% Dungeon XP",
-    "color": "#55FF55"
-  },
+  "dailyEvents": [
+    { "label": "Monday Event",  "color": "#55FF55" },
+    { "label": "Tuesday Event",          "color": "#FF55FF" },
+    { "label": "Wednesday Event",    "color": "#55FFFF" },
+    { "label": "Thursday Event",  "color": "#55FF55" },
+    { "label": "Friday Event",     "color": "#FFAA00" },
+    { "label": "Saturday Event",          "color": "#FF55FF" },
+    { "label": "Sunday Event",     "color": "#AAAAAA" }
+  ],
   "boosters": [
-    { "label": "+50% XP Booster",   "color": "#FFAA00" },
-    { "label": "+25% Luck Booster", "color": "#FF55FF" }
+    { "label": "+50% XP Booster",   "color": "#FFAA00" }
   ]
 }
