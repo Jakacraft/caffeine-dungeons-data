@@ -1,0 +1,7 @@
+[
+  { "name": "Iron Ring",      "rarity": "COMMON",    "floor": 1    },
+  { "name": "Stone Band",     "rarity": "COMMON",    "floor": 1    },
+  { "name": "Copper Trinket", "rarity": "COMMON",    "floor": null },
+  { "name": "Magic Ring",     "rarity": "UNCOMMON",  "floor": 2    },
+  { "name": "Dragon Scale",   "rarity": "LEGENDARY", "floor": 4    }
+]
