@@ -8,5 +8,5 @@
   { "uuid": "04e80700-bc09-4b79-b1ea-48d13e544f1d", "id": "ddstaff", "title": "DungeonDodge Staff", "color": "#E5B80B" },
   { "uuid": "b7fbc82b-4892-4aff-8cf4-c6781584c131", "id": "ddhelper", "title": "DungeonDodge Helper", "color": "#006400" },
   { "uuid": "e62bf3e4-bae9-4f59-a4fe-96186b81bd5d", "id": "ddhelper", "title": "DungeonDodge Helper", "color": "#006400" },
-  { "uuid": "6c0c19b0-d255-4f6e-ba6c-8e4ab5895e7b", "id": "dddeveloper", "title": "DungeonDodge Developer", "color": "#FF007F" },
+  { "uuid": "6c0c19b0-d255-4f6e-ba6c-8e4ab5895e7b", "id": "dddeveloper", "title": "DungeonDodge Developer", "color": "#FF007F" }
 ]
