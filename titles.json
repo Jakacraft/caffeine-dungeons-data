@@ -1,4 +1,5 @@
 [
-{ "uuid": "03395ef5-e4e5-4747-a4b9-4f2ad695d7ac", "title": "Caffeine Dungeons Developer", "color": "chroma" },
-{ "uuid": "ecce236c-487e-4e9f-b0d1-c331c55a60aa", "title": "DungeonDodge Owner", "color": "chroma" }
+  { "uuid": "03395ef5-e4e5-4747-a4b9-4f2ad695d7ac", "id": "cdmfounder", "title": "Caffeine Dungeons Founder", "color": "chroma" },
+  { "uuid": "03395ef5-e4e5-4747-a4b9-4f2ad695d7ac", "id": "cdmbeta", "title": "Caffeine Dungeons Beta Tester", "color": "#D40A00" },
+  { "uuid": "ecce236c-487e-4e9f-b0d1-c331c55a60aa", "id": "ddowner", "title": "DungeonDodge Owner", "color": "chroma" }
 ]
