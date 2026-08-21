@@ -5,9 +5,10 @@
   { "uuid": "ecce236c-487e-4e9f-b0d1-c331c55a60aa", "id": "ddowner", "title": "DungeonDodge Owner", "color": "chroma" },
   { "uuid": "ecce236c-487e-4e9f-b0d1-c331c55a60aa", "id": "a1eq-a", "title": "DungeonDodge Staff", "color": "#E5B80B" },
   { "uuid": "19f9907c-4efc-4656-b350-287267d6a15a", "id": "ddstaff", "title": "DungeonDodge Staff", "color": "#E5B80B" },
- { "uuid": "19f9907c-4efc-4656-b350-287267d6a15a", "id": "A1eq-a", "title": "Blows Up Dungeons", "color": "#D40A00" },
+  { "uuid": "19f9907c-4efc-4656-b350-287267d6a15a", "id": "A1eq-a", "title": "Blows Up Dungeons", "color": "#D40A00" },
   { "uuid": "04e80700-bc09-4b79-b1ea-48d13e544f1d", "id": "ddstaff", "title": "DungeonDodge Staff", "color": "#E5B80B" },
   { "uuid": "b7fbc82b-4892-4aff-8cf4-c6781584c131", "id": "ddhelper", "title": "DungeonDodge Helper", "color": "#006400" },
   { "uuid": "e62bf3e4-bae9-4f59-a4fe-96186b81bd5d", "id": "ddhelper", "title": "DungeonDodge Helper", "color": "#006400" },
+  { "uuid": "93d44b71-1e08-451f-a001-9d42a2f09e43", "id": "cdmbeta", "title": "CDM Beta Tester", "color": "#D40A00" },
   { "uuid": "6c0c19b0-d255-4f6e-ba6c-8e4ab5895e7b", "id": "dddeveloper", "title": "DungeonDodge Developer", "color": "#FF007F" }
 ]
