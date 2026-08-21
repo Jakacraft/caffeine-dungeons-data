@@ -10,5 +10,6 @@
   { "uuid": "b7fbc82b-4892-4aff-8cf4-c6781584c131", "id": "ddhelper", "title": "DungeonDodge Helper", "color": "#006400" },
   { "uuid": "e62bf3e4-bae9-4f59-a4fe-96186b81bd5d", "id": "ddhelper", "title": "DungeonDodge Helper", "color": "#006400" },
   { "uuid": "93d44b71-1e08-451f-a001-9d42a2f09e43", "id": "cdmbeta", "title": "CDM Beta Tester", "color": "#D40A00" },
-  { "uuid": "6c0c19b0-d255-4f6e-ba6c-8e4ab5895e7b", "id": "dddeveloper", "title": "DungeonDodge Developer", "color": "#FF007F" }
+  { "uuid": "6c0c19b0-d255-4f6e-ba6c-8e4ab5895e7b", "id": "dddeveloper", "title": "DungeonDodge Developer", "color": "#FF007F" },
+  { "uuid": "93d44b71-1e08-451f-a001-9d42a2f09e43", "id": "dddeveloper", "title": "DungeonDodge Developer", "color": "#FF007F" }
 ]
