@@ -9,9 +9,8 @@
     { "label": "Saturday Event",          "color": "#FF55FF" }
   ],
   "boosters": [
-  { "label": "Dungeon Booster", "color": "#FFAA00" },
-  { "label": "Luck Booster",    "color": "#55FF55" },
-  { "label": "Pet Booster",     "color": "#FF66FF" }
-]
+    { "label": "Dungeon Booster", "color": "#FFAA00" },
+    { "label": "Luck Booster",    "color": "#55FF55" },
+    { "label": "Pet Booster",     "color": "#FF66FF" }
   ]
 }
