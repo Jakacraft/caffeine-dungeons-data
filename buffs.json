@@ -9,8 +9,20 @@
     { "label": "Saturday Event",          "color": "#FF55FF" }
   ],
   "boosters": [
-    { "label": "Dungeon Booster", "color": "#FFAA00" },
-    { "label": "Luck Booster",    "color": "#55FF55" },
-    { "label": "Pet Booster",     "color": "#FF66FF" }
-  ]
+  {
+    "label": "+50% Dungeon XP",
+    "color": "#FFAA00",
+    "tablistName": "Dungeon"
+  },
+  {
+    "label": "+50% Luck",
+    "color": "#55FF55",
+    "tablistName": "Luck"
+  },
+  {
+    "label": "+50% Pet XP",
+    "color": "#FF66FF",
+    "tablistName": "Pet"
+  }
+]
 }
