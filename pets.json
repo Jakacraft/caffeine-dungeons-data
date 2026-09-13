@@ -1,0 +1,5 @@
+[
+  { "name": "Zombie Pet", "maxRarity": "LEGENDARY" },
+  { "name": "Skeleton Pet",  "maxRarity": "LEGENDARY" },
+  { "name": "Wolf Pet",   "maxRarity": "MYTHIC" }
+]
