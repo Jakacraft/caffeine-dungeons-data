@@ -1,5 +1,7 @@
 [
   { "name": "Zombie Pet", "maxRarity": "LEGENDARY" },
   { "name": "Skeleton Pet",  "maxRarity": "LEGENDARY" },
+  { "name": "Golden Golem",   "maxRarity": "LEGENDARY" },
+  { "name": "Slime Pet",   "maxRarity": "MYTHIC" },
   { "name": "Wolf Pet",   "maxRarity": "MYTHIC" }
 ]
