@@ -2,5 +2,12 @@
   { "id": "skeleton-pet", "name": "Skeleton Pet", "maxRarity": "LEGENDARY" },
   { "id": "zombie-pet",   "name": "Zombie Pet",   "maxRarity": "LEGENDARY" },
   { "id": "golden-golem-pet",   "name": "Golden Golem Pet",   "maxRarity": "LEGENDARY" },
+  { "id": "polar-bear-pet",   "name": "Polar Bear Pet",   "maxRarity": "LEGENDARY" },
+  { "id": "wolf-pet",   "name": "Wolf Pet",   "maxRarity": "LEGENDARY" },
+  { "id": "ice-spider-pet",   "name": "Ice Spider Pet",   "maxRarity": "LEGENDARY" },
+  { "id": "bone-samurai-pet",   "name": "Bone Samurai Pet",   "maxRarity": "LEGENDARY" },
+  { "id": "overgrown-pet",   "name": "Overgrown Pet",   "maxRarity": "LEGENDARY" },
+  { "id": "yeti-pet",   "name": "Yeit Pet",   "maxRarity": "MYTHIC" },
+  { "id": "spirit-pet",   "name": "Spirit Pet",   "maxRarity": "MYTHIC" },
   { "id": "slime-pet",    "name": "Slime Pet",    "maxRarity": "MYTHIC" }
 ]
